@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+    setup
+    newGame
+    readId
+    readHwnd
+    killGame
+    getProcess
